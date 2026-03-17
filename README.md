@@ -11,7 +11,7 @@ This repository is a collection of my practice projects and exercises focused on
 * **Environment:** Jupyter Notebook / Datalore
 
 ## 📂 Contents
-* `[Course Pandas Foundation - Final Project.ipynb]`: Pandas practical exercises based on the final project assessment from the DataRockie Data Science Bootcamp. This file focuses on applying data manipulation techniques to solve real-world scenarios.
+* `[python/Course Pandas Foundation - Final Project.ipynb]`: Pandas practical exercises based on the final project assessment from the DataRockie Data Science Bootcamp. This file focuses on applying data manipulation techniques to solve real-world scenarios.
 
 ## 💡 Key Learnings
 Through consistent practice and hands-on coding, I have significantly improved my foundational skills:
